@@ -27,7 +27,5 @@ You can also find about [Blink's official repository](https://github.com/blinksh
  Meslo				       | Menlo			 | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
  Sauce Code Pro			       | Source Code Pro	 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL_web)
  Roboto Mono			       | Roboto Mono 		 | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
- Sauce Code Pro + Nerdfont | Source Code Pro | 
-[SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL_web)
-
+ Sauce Code Pro + Nerdfont | Source Code Pro | [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL_web)
 
