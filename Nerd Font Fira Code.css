@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Nerd Font Fira Code";
+    font-weight: 200;
+    src: url('https://cdn.rawgit.com/ryanoasis/nerd-fonts/1.2.0/patched-fonts/FiraCode/Light/complete/Fura%20Code%20Light%20Nerd%20Font%20Complete.otf') format('opentype');
+}
+@font-face {
+    font-family: "Nerd Font Fira Code";
+    font-weight: 400;
+    src: url('https://cdn.rawgit.com/ryanoasis/nerd-fonts/1.2.0/patched-fonts/FiraCode/Regular/complete/Fura%20Code%20Regular%20Nerd%20Font%20Complete.otf') format('opentype');
+}
+@font-face {
+    font-family: "Nerd Font Fira Code";
+    font-weight: 600;
+    src: url('https://cdn.rawgit.com/ryanoasis/nerd-fonts/1.2.0/patched-fonts/FiraCode/Medium/complete/Fura%20Code%20Medium%20Nerd%20Font%20Complete.otf') format('opentype');
+}
+@font-face {
+    font-family: "Nerd Font Fira Code";
+    font-weight: 800;
+    src: url('https://cdn.rawgit.com/ryanoasis/nerd-fonts/1.2.0/patched-fonts/FiraCode/Bold/complete/Fura%20Code%20Bold%20Nerd%20Font%20Complete.otf') format('opentype');
+}
