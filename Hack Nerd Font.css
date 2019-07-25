@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Hack Nerd Font";
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Hack Nerd Font";
+    font-style: normal;
+    font-weight: 700;
+    src: url('https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Hack/Bold/complete/Hack%20Bold%20Nerd%20Font%20Complete.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Hack Nerd Font";
+    font-style: italic;
+    font-weight: 400;
+    src: url('https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Hack/Italic/complete/Hack%20Italic%20Nerd%20Font%20Complete.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Hack Nerd Font";
+    font-style: italic;
+    font-weight: 700;
+    src: url('https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Hack/BoldItalic/complete/Hack%20BoldItalic%20Nerd%20Font%20Complete.ttf') format('truetype');
+}
