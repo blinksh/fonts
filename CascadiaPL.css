@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Cascadia Code";
+    font-style: normal;
+    font-weight: 200;
+    src: url('https://github.com/microsoft/cascadia-code/releases/download/v1911.21/CascadiaPL.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Cascadia Code";
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://github.com/microsoft/cascadia-code/releases/download/v1911.21/CascadiaPL.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Cascadia Code";
+    font-weight: 600;
+    src: url('https://github.com/microsoft/cascadia-code/releases/download/v1911.21/CascadiaPL.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Cascadia Code";
+    font-weight: 800;
+    src: url('https://github.com/microsoft/cascadia-code/releases/download/v1911.21/CascadiaPL.ttf') format('truetype');
+}
