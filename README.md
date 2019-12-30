@@ -19,6 +19,7 @@ You can also find about [Blink's official repository](https://github.com/blinksh
  DejaVu Sans Mono for Powerline        | DejaVu Sans Mono        | [DejaVu Fonts License, Version 1.0](http://dejavu-fonts.org/wiki/License)
  Droid Sans Mono for Powerline         | Droid Sans Mono         | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
  Hack                                  | Hack                    | [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL_web)
+ IBM Plex Mono                         | IBM Plex Mono           | [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL_web)
  Inconsolata for Powerline             | Inconsolata             | [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL_web)
  Literation Mono Powerline             | Liberation Mono         | [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL_web)
  Ubuntu Mono derivative Powerline      | Ubuntu Mono             | [Ubuntu Font License, Version 1.0](http://font.ubuntu.com/ufl/ubuntu-font-licence-1.0.txt)
