@@ -31,5 +31,8 @@
         "name": "Ubuntu Mono",
         "regular": "Regular/complete/Ubuntu%20Mono%20Nerd%20Font%20Complete.ttf",
         "italic": "Regular-Italic/complete/Ubuntu%20Mono%20Italic%20Nerd%20Font%20Complete.ttf"
+    },
+    "JetBrainsMono": {
+        "name": "JetBrains Mono"
     }
 }
