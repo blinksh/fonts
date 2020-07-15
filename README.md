@@ -25,6 +25,7 @@ You can also find about [Blink's official repository](https://github.com/blinksh
  Ubuntu Mono derivative Powerline      | Ubuntu Mono             | [Ubuntu Font License, Version 1.0](http://font.ubuntu.com/ufl/ubuntu-font-licence-1.0.txt)
  Monofur for Powerline                 | Monofur                 | Freeware
  Fira Code   			       | Fira Mono		 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL_web)
+ Go Mono                               | Go Mono                 | [BSD-style](https://golang.org/LICENSE?m=text)
  Meslo				       | Menlo			 | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
  Sauce Code Pro			       | Source Code Pro	 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL_web)
  Roboto Mono			       | Roboto Mono 		 | [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
