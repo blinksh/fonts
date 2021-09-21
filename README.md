@@ -2,6 +2,8 @@
 
 With [Blink Shell](http://www.blink.sh) you can have your terminal, your way. We know how important it is for you to have your color scheme and the font that you feel comfortable looking at all day. And don't forget to send us your PR to share them with others too!
 
+[iOS now supports installing fonts at the OS level](https://9to5mac.com/2019/06/12/ios-13-how-to-use-custom-fonts-on-iphone-and-ipad/), and Blink will automatically recognize any installed Monospace font. The process is still cumbersome, and you may still find it more convenient to install them from the gallery, as the below fonts are already patched and may have wider character sets.
+
 We prefer fonts that are patched with Powerline characters, and will indicate that in our gallery. And extra points for ligatures too!
 
 To install them on Blink, just paste the URL of the CSS font under Appearance -> Fonts -> New Font. If you would like to learn how to create your own, [continue reading!](https://github.com/blinksh/blink/blob/raw/Resources/FontsAndThemes.md)
