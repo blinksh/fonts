@@ -1,11 +1,11 @@
 {
     "Arimo": {},
     "CascadiaCode": {
-	"name": "Cascadia Code",
-	"regular": "complete/Caskaydia%20Cove%20Regular%20Nerd%20Font%20Complete.ttf",
-	"bold": "complete/Caskaydia%20Cove%20Regular%20Nerd%20Font%20Complete.ttf",
-	"italic": "complete/Caskaydia%20Cove%20Regular%20Nerd%20Font%20Complete.ttf",
-	"bold_italic": "complete/Caskaydia%20Cove%20Regular%20Nerd%20Font%20Complete.ttf"
+        "name": "Cascadia Code",
+        "regular": "complete/Caskaydia%20Cove%20Regular%20Nerd%20Font%20Complete.ttf",
+        "bold": "complete/Caskaydia%20Cove%20Regular%20Nerd%20Font%20Complete.ttf",
+        "italic": "complete/Caskaydia%20Cove%20Regular%20Nerd%20Font%20Complete.ttf",
+        "bold_italic": "complete/Caskaydia%20Cove%20Regular%20Nerd%20Font%20Complete.ttf"
     },
     "Cousine": {
         "bold_italic": "BoldItalic/complete/Cousine%20Bold%20Italic%20Nerd%20Font%20Complete.ttf"
