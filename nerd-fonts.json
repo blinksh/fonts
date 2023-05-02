@@ -52,6 +52,13 @@
     "Mononoki": {
         "name": "mononoki"
     },
+    "SourceCodePro": {
+        "name": "Sauce Code Pro",
+        "regular": "Regular/SauceCodeProNerdFont-Regular.ttf",
+        "bold": "Bold/SauceCodeProNerdFont-Bold.ttf",
+        "italic": "Italic/SauceCodeProNerdFont-Italic.ttf",
+        "bold_italic": "Bold-Italic/SauceCodeProNerdFont-BoldItalic.ttf"
+    },
     "UbuntuMono": {
         "name": "Ubuntu Mono",
         "italic": "Regular-Italic/UbuntuMonoNerdFont-Italic.ttf"
