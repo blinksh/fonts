@@ -17,6 +17,11 @@
         "italic": "Italic/DejaVuSansMNerdFont-Oblique.ttf",
         "bold_italic": "Bold-Italic/DejaVuSansMNerdFont-BoldOblique.ttf"
     },
+    "FiraCode": {
+        "name": "Fira Code",
+        "italic": "Regular/FiraCodeNerdFont-Regular.ttf",
+        "bold_italic":"Bold/FiraCodeNerdFont-Bold.ttf"
+    },
     "Hack": {
         "bold_italic": "BoldItalic/HackNerdFont-BoldItalic.ttf"
     },
