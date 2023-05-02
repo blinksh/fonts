@@ -30,6 +30,13 @@
     "IosevkaTerm": {
         "name": "Iosevka Term"
     },
+    "JetBrainsMono": {
+        "name": "JetBrains Mono",
+        "regular": "Ligatures/Regular/JetBrainsMonoNerdFont-Regular.ttf",
+        "bold": "Ligatures/Bold/JetBrainsMonoNerdFont-Bold.ttf",
+        "italic": "Ligatures/Italic/JetBrainsMonoNerdFont-Italic.ttf",
+        "bold_italic": "Ligatures/BoldItalic/JetBrainsMonoNerdFont-BoldItalic.ttf"
+    },
     "LiberationMono": {
         "name": "Liberation Mono",
         "regular": "LiterationMonoNerdFont-Regular.ttf",
@@ -43,12 +50,5 @@
     "UbuntuMono": {
         "name": "Ubuntu Mono",
         "italic": "Regular-Italic/UbuntuMonoNerdFont-Italic.ttf"
-    },
-    "JetBrainsMono": {
-        "name": "JetBrains Mono",
-        "regular": "Ligatures/Regular/JetBrainsMonoNerdFont-Regular.ttf",
-        "bold": "Ligatures/Bold/JetBrainsMonoNerdFont-Bold.ttf",
-        "italic": "Ligatures/Italic/JetBrainsMonoNerdFont-Italic.ttf",
-        "bold_italic": "Ligatures/BoldItalic/JetBrainsMonoNerdFont-BoldItalic.ttf"
     }
 }
