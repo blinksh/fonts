@@ -47,17 +47,16 @@ def download_as_base64(url):
 def generate_css(fonts):
     for font, paths in fonts.items():
         name = paths.get('name', font)
-        name_esc = name.replace(' ', '%20')
         filename = '%s Nerd Font.css' % name
         print('Creating: ' + filename)
         with open(filename, 'w') as fd:
             args = {
                 'font': font,
                 'name': name,
-                'regular': 'Regular/complete/{}%20Regular%20Nerd%20Font%20Complete.ttf'.format(name_esc),
-                'bold': 'Bold/complete/{}%20Bold%20Nerd%20Font%20Complete.ttf'.format(name_esc),
-                'italic': 'Italic/complete/{}%20Italic%20Nerd%20Font%20Complete.ttf'.format(name_esc),
-                'bold_italic': 'Bold-Italic/complete/{}%20Bold%20Italic%20Nerd%20Font%20Complete.ttf'.format(name_esc),
+                'regular': 'Regular/{}NerdFont-Regular.ttf'.format(font),
+                'bold': 'Bold/{}NerdFont-Bold.ttf'.format(font),
+                'italic': 'Italic/{}NerdFont-Italic.ttf'.format(font),
+                'bold_italic': 'Bold-Italic/{}NerdFont-BoldItalic.ttf'.format(font),
             }
             args.update(paths)
             for key in ('regular', 'bold', 'italic', 'bold_italic'):
