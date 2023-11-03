@@ -1,0 +1,309 @@
+{
+	"3270": {
+		"name": "3270",
+		"regular": "Regular/3270-Regular.ttf"
+	},
+	"Agave": {
+		"name": "Agave",
+		"bold": "Agave-Bold.ttf",
+		"regular": "Agave-Regular.ttf"
+	},
+    "AnonymousPro": {
+		"name": "Anonymous Pro",
+		"bold_italic": "Bold-Italic/Anonymous Pro BI.ttf",
+		"italic": "Italic/Anonymous Pro I.ttf",
+		"bold": "Bold/Anonymous Pro B.ttf",
+		"regular": "Regular/Anonymous Pro.ttf"
+	},
+	"Arimo": {
+		"name": "Arimo",
+		"bold_italic": "Bold-Italic/Arimo-BoldItalic.ttf",
+		"italic": "Italic/Arimo-Italic.ttf",
+		"bold": "Bold/Arimo-Bold.ttf",
+		"regular": "Regular/Arimo-Regular.ttf"
+	},
+	"AurulentSansMono": {
+		"name": "Aurulent Sans Mono",
+		"regular": "AurulentSansMono-Regular.otf"
+	},
+  "BigBlueTerminal": {
+    "name": "Big Blue Terminal",
+    "regular": "BigBlue_TerminalPlus.ttf"
+  },
+	"BitstreamVeraSansMono": {
+		"name": "Bitstream Vera Sans Mono",
+    "regular": "Regular/VeraMono.ttf",
+		"italic": "Italic/VeraMono-Italic.ttf",
+    "bold": "Bold/VeraMono-Bold.ttf",
+    "bold-italic": "Bold-Italic/VeraMono-Bold-Italic.ttf"
+	},
+  "CascadiaCode": {
+		"name": "Cascadia Code",
+		"bold_italic": "Bold/CascadiaCode-BoldItalic-vtt.ttf",
+		"italic": "Regular/CascadiaCode-Italic-vtt.ttf",
+		"bold": "Bold/CascadiaCode-Bold-vtt.ttf",
+		"regular": "Regular/CascadiaCode-Regular-vtt.ttf"
+	},
+	"CodeNewRoman": {
+		"name": "Code New Roman",
+		"italic": "Italic/Code New Roman-Italic.otf",
+		"bold": "Bold/Code New Roman-Bold.otf",
+		"regular": "Regular/Code New Roman-Regular.otf"
+	},
+	"ComicShannsMono": {
+		"name": "Comic Shanns Mono",
+		"regular": "ComicShannsMono-Regular.otf",
+		"bold": "ComicShannsMono-Bold.otf"
+	},
+	"Cousine": {
+		"name": "Cousine",
+		"italic": "Italic/Cousine-Italic.ttf",
+		"bold": "Bold/Cousine-Bold.ttf",
+		"bold_italic": "BoldItalic/Cousine-BoldItalic.ttf",
+		"regular": "Regular/Cousine-Regular.ttf"
+	},
+  "DroidSansMono": {
+    "name": "Droid Sans Mono for Powerline",
+    "regular": "Droid Sans Mono for Powerline.otf"
+  },
+	"DejaVuSansMono": {
+		"name": "Deja Vu Sans Mono",
+      "regular": "Regular/DejaVuSansMono.ttf",
+      "italic": "Italic/DejaVuSansMono-Oblique.ttf",
+		  "bold": "Bold/DejaVuSansMono-Bold.ttf",
+      "bold-italic": "Bold-Italic/DejaVuSansMono-BoldOblique.ttf"
+	},
+  "EnvyCodeR": {
+		"name": "Envy Code R",
+		"italic": "Envy Code R Italic.ttf",
+		"bold": "Envy Code R Bold.ttf",
+		"regular": "Envy Code R.ttf"
+	},
+	"FantasqueSansMono": {
+		"name": "Fantasque Sans Mono",
+		"bold_italic": "Bold-Italic/FantasqueSansMono-BoldItalic.ttf",
+		"italic": "Italic/FantasqueSansMono-Italic.ttf",
+		"bold": "Bold/FantasqueSansMono-Bold.ttf",
+		"regular": "Regular/FantasqueSansMono-Regular.ttf"
+	},
+	"FiraCode": {
+		"name": "Fira Code",
+    "regular": "Regular/FiraCode-Regular.ttf",
+		"bold": "Bold/FiraCode-Bold.ttf"
+	},
+	"FiraMono": {
+		"name": "Fira Mono",
+		"bold": "Bold/FiraMono-Bold.otf",
+		"regular": "Regular/FiraMono-Regular.otf"
+	},
+	"Go-Mono": {
+		"name": "Go Mono",
+		"italic": "Italic/Go-Mono-Italic.ttf",
+		"bold": "Bold/Go-Mono-Bold.ttf"
+	},
+	"Hack": {
+		"name": "Hack",
+		"italic": "Italic/Hack-Italic.ttf",
+		"bold": "Bold/Hack-Bold.ttf",
+		"bold_italic": "BoldItalic/Hack-BoldItalic.ttf",
+		"regular": "Regular/Hack-Regular.ttf"
+	},
+	"Hasklig": {
+		"name": "Hasklig",
+		"bold": "Bold/Hasklig-Bold.otf",
+    "regular": "Regular/Hasklig-Regular.otf",
+    "bold-italic": "Bold-Italic/Hasklig-BoldIt.otf"
+	},
+    "HeavyData": {
+		"name": "Heavy Data",
+		"regular": "heavy_data.ttf"
+	},
+	"Hermit": {
+		"name": "Hermit",
+		"bold_italic": "Bold-Italic/Hermit-BoldItalic.otf",
+		"bold": "Bold/Hermit-Bold.otf",
+    "italic": "Italic/Hermit-RegularItalic.otf",
+		"regular": "Regular/Hermit-Regular.otf"
+	},
+	"IBMPlexMono": {
+		"name": "IBM Plex Mono",
+		"bold": "Mono/IBMPlexMono-Bold.ttf",
+		"bold_italic": "Mono/IBMPlexMono-BoldItalic.ttf",
+		"regular": "Mono/IBMPlexMono-Regular.ttf",
+		"italic": "Mono/IBMPlexMono-Italic.ttf"
+	},
+	"Inconsolata": {
+		"name": "Inconsolata",
+		"bold": "Inconsolata-Bold.ttf",
+		"regular": "Inconsolata-Regular.ttf"
+	},
+	"InconsolataGo": {
+		"name": "Inconsolata Go",
+		"bold": "Bold/InconsolataGo-Bold.ttf",
+		"regular": "Regular/InconsolataGo-Regular.ttf"
+	},
+	"InconsolataLGC": {
+		"name": "Inconsolata LGC",
+		"bold_italic": "Bold-Italic/Inconsolata-LGC-BoldItalic.ttf",
+		"italic": "Italic/Inconsolata-LGC-Italic.ttf",
+    "bold": "Bold/Inconsolata-LGC-Bold.ttf",
+    "regular": "Regular/Inconsolata-LGC.ttf"
+	},
+	"IntelOneMono": {
+		"name": "Intel One Mono",
+		"italic": "Italic/intelone-mono-font-family-italic.ttf",
+		"bold": "Bold/intelone-mono-font-family-bold.ttf",
+    "bold-italic": "Bold-Italic/intelone-mono-font-family-bolditalic.ttf",
+		"regular": "Regular/intelone-mono-font-family-regular.ttf"
+	},
+	"Iosevka": {
+		"name": "Iosevka",
+		"italic": "Italic/iosevka-italic.ttf",
+		"bold": "Bold/iosevka-bold.ttf",
+		"regular": "Regular/iosevka-regular.ttf"
+	},
+	"IosevkaTerm": {
+		"name": "Iosevka Term",
+		"italic": "Italic/iosevka-term-italic.ttf",
+		"bold": "Bold/iosevka-term-bold.ttf",
+    "bold-italic": "Bold-Italic/iosevka-bolditalic.ttf",
+		"regular": "Regular/iosevka-term-regular.ttf"
+	},
+	"JetBrainsMono": {
+		"name": "Jet Brains Mono",
+		"italic": "NoLigatures/Italic/JetBrainsMonoNL-Italic.ttf",
+		"bold": "NoLigatures/Bold/JetBrainsMonoNL-Bold.ttf",
+		"bold_italic": "NoLigatures/BoldItalic/JetBrainsMonoNL-BoldItalic.ttf",
+		"regular": "NoLigatures/Regular/JetBrainsMonoNL-Regular.ttf"
+	},
+	"Lekton": {
+		"name": "Lekton",
+		"italic": "Italic/Lekton-Italic.ttf",
+		"bold": "Bold/Lekton-Bold.ttf",
+		"regular": "Regular/Lekton-Regular.ttf"
+	},
+	"LiberationMono": {
+		"name": "Liberation Mono",
+		"bold": "LiberationMono-Bold.ttf",
+		"bold_italic": "LiberationMono-BoldItalic.ttf",
+		"regular": "LiberationSans-Regular.ttf",
+		"italic": "LiberationMono-Italic.ttf"
+	},
+	"Lilex": {
+		"name": "Lilex",
+		"bold": "Bold/Lilex-Bold.ttf",
+		"regular": "Regular/Lilex-Regular.ttf"
+	},
+    "Meslo": {
+		    "name": "Meslo for Powerline",
+		    "bold_italic": "L/Bold-Italic/Meslo LG L Bold Italic for Powerline.ttf",
+		    "italic": "L/Italic/Meslo LG L Italic for Powerline.ttf",
+		    "bold": "L/Bold/Meslo LG L Bold for Powerline.ttf",
+		    "regular": "L/Regular/Meslo LG L Regular for Powerline.ttf"
+	  },
+    "Monofur": { 
+		"name": "Monofur for Powerline",
+		"italic": "Italic/Monofur Italic for Powerline.ttf",
+		"bold": "Bold/Monofur Bold for Powerline.ttf",
+		"regular": "Regular/Monofur for Powerline.ttf"
+	},
+	"MPlus": {
+		"name": "M Plus",
+		"bold": "M_Plus_1/MPLUS1-Bold.ttf",
+		"regular": "M_Plus_1/MPLUS1-Regular.ttf"
+	},
+	"Monoid": {
+		"name": "Monoid",
+		"italic": "Italic/Monoid-Italic.ttf",
+		"bold": "Bold/Monoid-Bold.ttf",
+		"regular": "Regular/Monoid-Regular.ttf"
+	},
+	"Mononoki": {
+		"name": "Mononoki",
+		"bold_italic": "Bold-Italic/mononoki-BoldItalic.ttf",
+		"italic": "Italic/mononoki-Italic.ttf",
+		"bold": "Bold/mononoki-Bold.ttf",
+		"regular": "Regular/mononoki-Regular.ttf"
+	},
+	"Noto": {
+		"name": "Noto",
+		"regular": "Sans-Mono/NotoSansMono-Regular.ttf",
+		"bold": "Sans-Mono/NotoSansMono-Bold.ttf"
+	},
+	"OpenDyslexic": {
+		"name": "Open Dyslexic",
+		"bold_italic": "Bold-Italic/OpenDyslexic-BoldItalic.otf",
+		"italic": "Italic/OpenDyslexic-Italic.otf",
+		"regular": "Regular/OpenDyslexic-Regular.otf",
+		"bold": "Bold/OpenDyslexic-Bold.otf"
+	},
+	"Overpass": {
+		"name": "Overpass",
+		"bold": "Mono/Bold/overpass-mono-bold.otf",
+		"regular": "Mono/Regular/overpass-mono-regular.otf"
+	},
+  "ProggyClean": {
+		"name": "Proggy Clean",
+		"regular": "Regular/ProggyClean.ttf"
+	},
+	"RobotoMono": {
+		"name": "Roboto Mono",
+		"bold_italic": "Bold-Italic/RobotoMono-BoldItalic.ttf",
+		"italic": "Italic/RobotoMono-Italic.ttf",
+		"bold": "Bold/RobotoMono-Bold.ttf",
+		"regular": "Regular/RobotoMono-Regular.ttf"
+	},
+	"ShareTechMono": {
+		"name": "Share Tech Mono",
+		"regular": "ShareTechMono-Regular.ttf"
+	},
+	"SourceCodePro": {
+		"name": "Source Code Pro",
+		"bold": "Bold/SourceCodePro-Bold.ttf",
+    "regular": "Regular/SourceCodePro-Regular.ttf",
+    "italic": "Italic/SourceCodePro-It.ttf",
+    "bold-italic": "Bold-Italic/SourceCodePro-BoldIt.ttf"
+	},
+	"SpaceMono": {
+		"name": "Space Mono",
+		"bold_italic": "Bold-Italic/SpaceMono-BoldItalic.ttf",
+		"italic": "Italic/SpaceMono-Italic.ttf",
+		"bold": "Bold/SpaceMono-Bold.ttf",
+		"regular": "Regular/SpaceMono-Regular.ttf"
+	},
+  "Terminus": {
+    "name": "Terminus",
+    "bold_italic": "Bold-Italic/TerminusTTF-Bold Italic-4.49.2.ttf",
+		"italic": "Italic/TerminusTTF-Italic-4.49.2.ttf",
+		"bold": "Bold/TerminusTTF-Bold-4.49.2.ttf",
+		"regular": "Regular/TerminusTTF-4.49.2.ttf"
+    },
+	"Tinos": {
+		"name": "Tinos",
+		"bold_italic": "Bold-Italic/Tinos-BoldItalic.ttf",
+		"italic": "Italic/Tinos-Italic.ttf",
+		"bold": "Bold/Tinos-Bold.ttf",
+		"regular": "Regular/Tinos-Regular.ttf"
+	},
+  "UbuntuMono": {
+		"name": "Ubuntu Mono",
+		"bold_italic": "Bold-Italic/UbuntuMono-BI.ttf",
+		"italic": "Regular-Italic/UbuntuMono-RI.ttf",
+		"bold": "Bold/UbuntuMono-B.ttf",
+		"regular": "Regular/UbuntuMono-R.ttf"
+	},
+	"VictorMono": {
+		"name": "Victor Mono",
+		"bold_italic": "Bold-Italic/VictorMono-BoldItalic.ttf",
+		"italic": "Italic/VictorMono-Italic.ttf",
+		"bold": "Bold/VictorMono-Bold.ttf",
+		"regular": "Regular/VictorMono-Regular.ttf"
+	},
+	"iA-Writer": {
+		"name": "iA Writer",
+		"italic": "Duo/Italic/iAWriterDuoS-Italic.ttf",
+		"bold": "Duo/Bold/iAWriterDuoS-Bold.ttf",
+		"bold_italic": "Duo/BoldItalic/iAWriterDuoS-BoldItalic.ttf",
+		"regular": "Duo/Regular/iAWriterDuoS-Regular.ttf"
+	}
+}

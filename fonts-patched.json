@@ -1,0 +1,295 @@
+{
+	"3270": {
+		"name": "3270",
+		"regular": "Regular/3270NerdFontMono-Regular.ttf"
+	},
+	"Agave": {
+		"name": "Agave",
+		"bold": "AgaveNerdFontMono-Bold.ttf",
+		"regular": "AgaveNerdFontMono-Regular.ttf"
+	},
+	"AnonymousPro": {
+		"name": "Anonymous Pro",
+		"bold_italic": "Bold-Italic/AnonymiceProNerdFontMono-BoldItalic.ttf",
+		"italic": "Italic/AnonymiceProNerdFontMono-Italic.ttf",
+		"bold": "Bold/AnonymiceProNerdFontMono-Bold.ttf",
+		"regular": "Regular/AnonymiceProNerdFontMono-Regular.ttf"
+	},
+	"AurulentSansMono": {
+		"name": "Aurulent Sans Mono",
+		"regular": "AurulentSansMNerdFontMono-Regular.otf"
+	},
+	"BigBlueTerminal": {
+		"name": "Big Blue Terminal Plus",
+		"regular": "BigBlueTermPlusNerdFontMono-Regular.ttf"
+	},
+	"BitstreamVeraSansMono": {
+		"name": "Bitstream Vera Sans Mono",
+		"bold": "Bold/BitstromWeraNerdFontMono-Bold.ttf",
+		"regular": "Regular/BitstromWeraNerdFontMono-Regular.ttf"
+	},
+	"CascadiaCode": {
+		"name": "Cascadia Code",
+		"bold_italic": "Bold/CaskaydiaCoveNerdFontMono-BoldItalic.ttf",
+		"bold": "Bold/CaskaydiaCoveNerdFontMono-Bold.ttf",
+		"regular": "Regular/CaskaydiaCoveNerdFontMono-Regular.ttf",
+		"italic": "Regular/CaskaydiaCoveNerdFontMono-Italic.ttf"
+	},
+	"CodeNewRoman": {
+		"name": "Code New Roman",
+		"italic": "Italic/CodeNewRomanNerdFontMono-Italic.otf",
+		"bold": "Bold/CodeNewRomanNerdFontMono-Bold.otf",
+		"regular": "Regular/CodeNewRomanNerdFontMono-Regular.otf"
+	},
+	"ComicShannsMono": {
+		"name": "Comic Shanns Mono",
+		"bold": "ComicShannsMonoNerdFontMono-Bold.otf",
+		"regular": "ComicShannsMonoNerdFontMono-Regular.otf"
+	},
+	"Cousine": {
+		"name": "Cousine",
+		"italic": "Italic/CousineNerdFontMono-Italic.ttf",
+		"bold": "Bold/CousineNerdFontMono-Bold.ttf",
+		"bold_italic": "BoldItalic/CousineNerdFontMono-BoldItalic.ttf",
+		"regular": "Regular/CousineNerdFontMono-Regular.ttf"
+	},
+	"DaddyTimeMono": {
+		"name": "Daddy Time Mono",
+		"regular": "DaddyTimeMonoNerdFontMono-Regular.ttf"
+	},
+	"DejaVuSansMono": {
+		"name": "Deja Vu Sans Mono",
+		"bold": "Bold/DejaVuSansMNerdFontMono-Bold.ttf",
+    "regular": "Regular/DejaVuSansMNerdFontMono-Regular.ttf",
+    "italic": "Italic/DejaVuSansMNerdFontMono-Oblique.ttf",
+    "bold-italic": "Bold-Italic/DejaVuSansMNerdFontMono-BoldOblique.ttf"
+	},
+	"DroidSansMono": {
+		"name": "Droid Sans Mono",
+		"regular": "DroidSansMNerdFontMono-Regular.otf"
+	},
+	"EnvyCodeR": {
+		"name": "Envy Code R",
+		"bold": "EnvyCodeRNerdFontMono-Bold.ttf",
+		"regular": "EnvyCodeRNerdFontMono-Regular.ttf",
+		"italic": "EnvyCodeRNerdFontMono-Italic.ttf"
+	},
+	"FantasqueSansMono": {
+		"name": "Fantasque Sans Mono",
+		"bold_italic": "Bold-Italic/FantasqueSansMNerdFontMono-BoldItalic.ttf",
+		"italic": "Italic/FantasqueSansMNerdFontMono-Italic.ttf",
+		"bold": "Bold/FantasqueSansMNerdFontMono-Bold.ttf",
+		"regular": "Regular/FantasqueSansMNerdFontMono-Regular.ttf"
+	},
+	"FiraCode": {
+		"name": "Fira Code",
+		"bold": "Bold/FiraCodeNerdFontMono-Bold.ttf",
+		"regular": "Regular/FiraCodeNerdFontMono-Regular.ttf"
+	},
+	"FiraMono": {
+		"name": "Fira Mono",
+		"bold": "Bold/FiraMonoNerdFontMono-Bold.otf",
+		"regular": "Regular/FiraMonoNerdFontMono-Regular.otf"
+	},
+	"Go-Mono": {
+		"name": "Go Mono",
+		"bold_italic": "Bold-Italic/GoMonoNerdFontMono-BoldItalic.ttf",
+		"italic": "Italic/GoMonoNerdFontMono-Italic.ttf",
+		"bold": "Bold/GoMonoNerdFontMono-Bold.ttf",
+		"regular": "Regular/GoMonoNerdFontMono-Regular.ttf"
+	},
+	"Gohu": {
+		"name": "Gohu",
+		"regular": "14/GohuFont14NerdFontMono-Regular.ttf"
+	},
+	"Hack": {
+		"name": "Hack",
+		"italic": "Italic/HackNerdFontMono-Italic.ttf",
+		"bold": "Bold/HackNerdFontMono-Bold.ttf",
+		"bold_italic": "BoldItalic/HackNerdFontMono-BoldItalic.ttf",
+		"regular": "Regular/HackNerdFontMono-Regular.ttf"
+	},
+	"Hasklig": {
+		"name": "Hasklig",
+		"bold_italic": "Bold-Italic/HasklugNerdFontMono-BoldItalic.otf",
+		"italic": "Italic/HasklugNerdFontMono-Italic.otf",
+		"bold": "Bold/HasklugNerdFontMono-Bold.otf",
+		"regular": "Regular/HasklugNerdFontMono-Regular.otf"
+	},
+	"Hermit": {
+		"name": "Hermit",
+		"bold_italic": "Bold-Italic/HurmitNerdFontMono-BoldItalic.otf",
+		"italic": "Italic/HurmitNerdFontMono-Italic.otf",
+		"bold": "Bold/HurmitNerdFontMono-Bold.otf",
+		"regular": "Regular/HurmitNerdFontMono-Regular.otf"
+	},
+	"IBMPlexMono": {
+		"name": "I B M Plex Mono",
+		"bold_italic": "Mono/BlexMonoNerdFontMono-BoldItalic.ttf",
+		"bold": "Mono/BlexMonoNerdFontMono-Bold.ttf",
+		"regular": "Mono/BlexMonoNerdFontMono-Regular.ttf",
+		"italic": "Mono/BlexMonoNerdFontMono-Italic.ttf"
+	},
+	"Inconsolata": {
+		"name": "Inconsolata",
+		"regular": "InconsolataNerdFontMono-Regular.ttf",
+		"bold": "InconsolataNerdFontMono-Bold.ttf"
+	},
+	"InconsolataGo": {
+		"name": "Inconsolata Go",
+		"bold": "Bold/InconsolataGoNerdFontMono-Bold.ttf",
+		"regular": "Regular/InconsolataGoNerdFontMono-Regular.ttf"
+	},
+	"InconsolataLGC": {
+		"name": "Inconsolata L G C",
+		"bold_italic": "Bold-Italic/InconsolataLGCNerdFontMono-BoldItalic.ttf",
+		"italic": "Italic/InconsolataLGCNerdFontMono-Italic.ttf",
+		"bold": "Bold/InconsolataLGCNerdFontMono-Bold.ttf",
+		"regular": "Regular/InconsolataLGCNerdFontMono-Regular.ttf"
+	},
+	"Iosevka": {
+		"name": "Iosevka",
+		"bold_italic": "Bold-Italic/IosevkaNerdFontMono-BoldItalic.ttf",
+		"italic": "Italic/IosevkaNerdFontMono-Italic.ttf",
+		"bold": "Bold/IosevkaNerdFontMono-Bold.ttf",
+		"regular": "Regular/IosevkaNerdFontMono-Regular.ttf"
+	},
+	"IosevkaTerm": {
+		"name": "Iosevka Term",
+		"bold_italic": "Bold-Italic/IosevkaTermNerdFontMono-BoldItalic.ttf",
+		"italic": "Italic/IosevkaTermNerdFontMono-Italic.ttf",
+		"bold": "Bold/IosevkaTermNerdFontMono-Bold.ttf",
+		"regular": "Regular/IosevkaTermNerdFontMono-Regular.ttf"
+	},
+	"JetBrainsMono": {
+		"name": "Jet Brains Mono",
+		"italic": "NoLigatures/Italic/JetBrainsMonoNLNerdFontMono-Italic.ttf",
+		"bold": "NoLigatures/Bold/JetBrainsMonoNLNerdFontMono-Bold.ttf",
+		"bold_italic": "NoLigatures/BoldItalic/JetBrainsMonoNLNerdFontMono-BoldItalic.ttf",
+		"regular": "NoLigatures/Regular/JetBrainsMonoNLNerdFontMono-Regular.ttf"
+	},
+	"Lekton": {
+		"name": "Lekton",
+		"italic": "Italic/LektonNerdFontMono-Italic.ttf",
+		"bold": "Bold/LektonNerdFontMono-Bold.ttf",
+		"regular": "Regular/LektonNerdFontMono-Regular.ttf"
+	},
+	"LiberationMono": {
+		"name": "Liberation Mono",
+		"bold_italic": "LiterationMonoNerdFontMono-BoldItalic.ttf",
+		"regular": "LiterationMonoNerdFontMono-Regular.ttf",
+		"bold": "LiterationMonoNerdFontMono-Bold.ttf",
+		"italic": "LiterationMonoNerdFontMono-Italic.ttf"
+	},
+	"Lilex": {
+		"name": "Lilex",
+		"bold": "Bold/LilexNerdFontMono-Bold.ttf",
+		"regular": "Regular/LilexNerdFontMono-Regular.ttf"
+	},
+	"MPlus": {
+		"name": "M Plus",
+		"bold": "M_Plus_1_code/M+1CodeNerdFontMono-Bold.ttf",
+		"regular": "M_Plus_1_code/M+1CodeNerdFontMono-Regular.ttf"
+	},
+	"Meslo": {
+		"name": "Meslo",
+		"bold_italic": "L/Bold-Italic/MesloLGLNerdFontMono-BoldItalic.ttf",
+		"italic": "L/Italic/MesloLGLNerdFontMono-Italic.ttf",
+		"bold": "L/Bold/MesloLGLNerdFontMono-Bold.ttf",
+		"regular": "L/Regular/MesloLGLNerdFontMono-Regular.ttf"
+	},
+	"Monofur": {
+		"name": "Monofur",
+		"italic": "Italic/MonofurNerdFontMono-Italic.ttf",
+		"bold": "Bold/MonofurNerdFontMono-Bold.ttf",
+		"regular": "Regular/MonofurNerdFontMono-Regular.ttf"
+	},
+	"Monoid": {
+		"name": "Monoid",
+		"italic": "Italic/MonoidNerdFontMono-Italic.ttf",
+		"bold": "Bold/MonoidNerdFontMono-Bold.ttf",
+		"regular": "Regular/MonoidNerdFontMono-Regular.ttf"
+	},
+	"Mononoki": {
+		"name": "Mononoki",
+		"bold_italic": "Bold-Italic/MononokiNerdFontMono-BoldItalic.ttf",
+		"italic": "Italic/MononokiNerdFontMono-Italic.ttf",
+		"bold": "Bold/MononokiNerdFontMono-Bold.ttf",
+		"regular": "Regular/MononokiNerdFontMono-Regular.ttf"
+	},
+	"Noto": {
+		"name": "Noto",
+		"regular": "Sans-Mono/NotoSansMNerdFontMono-Regular.ttf",
+		"bold": "Sans-Mono/NotoSansMNerdFontMono-Bold.ttf"
+	},
+	"OpenDyslexic": {
+		"name": "Open Dyslexic",
+		"regular": "Mono-Regular/OpenDyslexicMNerdFontMono-Regular.otf"
+	},
+	"Overpass": {
+		"name": "Overpass",
+		"bold": "Mono/Bold/OverpassMNerdFontMono-Bold.otf",
+		"regular": "Mono/Regular/OverpassMNerdFontMono-Regular.otf"
+	},
+	"ProFont": {
+		"name": "Pro Font",
+		"regular": "profontiix/ProFontIIxNerdFontMono-Regular.ttf"
+	},
+	"ProggyClean": {
+		"name": "Proggy Clean",
+		"regular": "Regular/ProggyCleanNerdFontMono-Regular.ttf"
+	},
+	"RobotoMono": {
+		"name": "Roboto Mono",
+		"bold_italic": "Bold-Italic/RobotoMonoNerdFontMono-BoldItalic.ttf",
+		"italic": "Italic/RobotoMonoNerdFontMono-Italic.ttf",
+		"bold": "Bold/RobotoMonoNerdFontMono-Bold.ttf",
+		"regular": "Regular/RobotoMonoNerdFontMono-Regular.ttf"
+	},
+	"ShareTechMono": {
+		"name": "Share Tech Mono",
+		"regular": "ShureTechMonoNerdFontMono-Regular.ttf"
+	},
+	"SourceCodePro": {
+		"name": "Source Code Pro",
+		"bold_italic": "Bold-Italic/SauceCodeProNerdFontMono-BoldItalic.ttf",
+		"italic": "Italic/SauceCodeProNerdFontMono-Italic.ttf",
+		"bold": "Bold/SauceCodeProNerdFontMono-Bold.ttf",
+		"regular": "Regular/SauceCodeProNerdFontMono-Regular.ttf"
+	},
+	"SpaceMono": {
+		"name": "Space Mono",
+		"bold_italic": "Bold-Italic/SpaceMonoNerdFontMono-BoldItalic.ttf",
+		"italic": "Italic/SpaceMonoNerdFontMono-Italic.ttf",
+		"bold": "Bold/SpaceMonoNerdFontMono-Bold.ttf",
+		"regular": "Regular/SpaceMonoNerdFontMono-Regular.ttf"
+	},
+	"Terminus": {
+		"name": "Terminus",
+		"bold_italic": "Bold-Italic/TerminessNerdFontMono-BoldItalic.ttf",
+		"italic": "Italic/TerminessNerdFontMono-Italic.ttf",
+		"bold": "Bold/TerminessNerdFontMono-Bold.ttf",
+		"regular": "Regular/TerminessNerdFontMono-Regular.ttf"
+	},
+	"UbuntuMono": {
+		"name": "Ubuntu Mono",
+		"bold_italic": "Bold-Italic/UbuntuMonoNerdFontMono-BoldItalic.ttf",
+		"italic": "Regular-Italic/UbuntuMonoNerdFontMono-Italic.ttf",
+		"bold": "Bold/UbuntuMonoNerdFontMono-Bold.ttf",
+		"regular": "Regular/UbuntuMonoNerdFontMono-Regular.ttf"
+	},
+	"VictorMono": {
+		"name": "Victor Mono",
+		"bold_italic": "Bold-Italic/VictorMonoNerdFontMono-BoldItalic.ttf",
+		"italic": "Italic/VictorMonoNerdFontMono-Italic.ttf",
+		"bold": "Bold/VictorMonoNerdFontMono-Bold.ttf",
+		"regular": "Regular/VictorMonoNerdFontMono-Regular.ttf"
+	},
+	"iA-Writer": {
+		"name": "iA Writer",
+		"italic": "Mono/Italic/iMWritingMonoNerdFontMono-Italic.ttf",
+		"bold": "Mono/Bold/iMWritingMonoNerdFontMono-Bold.ttf",
+		"bold_italic": "Mono/BoldItalic/iMWritingMonoNerdFontMono-BoldItalic.ttf",
+		"regular": "Mono/Regular/iMWritingMonoNerdFontMono-Regular.ttf"
+	}
+}
