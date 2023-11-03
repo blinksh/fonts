@@ -1,0 +1,6 @@
+[submodule "patched-fonts"]
+	path = patched-fonts
+	url = ./patched-fonts/
+[submodule "unpatched-fonts"]
+	path = unpatched-fonts
+	url = ./unpatched-fonts/
