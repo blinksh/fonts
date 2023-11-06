@@ -1,6 +1,6 @@
 [submodule "patched-fonts"]
 	path = patched-fonts
-	url = ./patched-fonts/
+	url = https://github.com/blinksh/patched-fonts.git
 [submodule "unpatched-fonts"]
 	path = unpatched-fonts
-	url = ./unpatched-fonts/
+	url = https://github.com/blinksh/unpatched-fonts.git
