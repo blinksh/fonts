@@ -94,3 +94,4 @@ def patched_fonts():
 
 if __name__ == '__main__':
     unpatched_fonts()
+#    patched_fonts()
