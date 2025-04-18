@@ -8,7 +8,7 @@
 		"bold": "Agave-Bold.ttf",
 		"regular": "Agave-Regular.ttf"
 	},
-    "AnonymousPro": {
+	"AnonymousPro": {
 		"name": "Anonymous Pro",
 		"bold_italic": "Bold-Italic/Anonymous Pro BI.ttf",
 		"italic": "Italic/Anonymous Pro I.ttf",
@@ -26,23 +26,23 @@
 		"name": "Aurulent Sans Mono",
 		"regular": "AurulentSansMono-Regular.otf"
 	},
-  "BigBlueTerminal": {
-    "name": "Big Blue Terminal",
-    "regular": "BigBlue_TerminalPlus.ttf"
-  },
+	"BigBlueTerminal": {
+		"name": "Big Blue Terminal",
+		"regular": "BigBlue_TerminalPlus.ttf"
+	},
 	"BitstreamVeraSansMono": {
 		"name": "Bitstream Vera Sans Mono",
-    "regular": "Regular/VeraMono.ttf",
+		"regular": "Regular/VeraMono.ttf",
 		"italic": "Italic/VeraMono-Italic.ttf",
-    "bold": "Bold/VeraMono-Bold.ttf",
-    "bold-italic": "Bold-Italic/VeraMono-Bold-Italic.ttf"
+		"bold": "Bold/VeraMono-Bold.ttf",
+		"bold-italic": "Bold-Italic/VeraMono-Bold-Italic.ttf"
 	},
-  "CascadiaCode": {
+	"CascadiaCode": {
 		"name": "Cascadia Code",
-		"bold_italic": "Bold/CascadiaCode-BoldItalic-vtt.ttf",
-		"italic": "Regular/CascadiaCode-Italic-vtt.ttf",
-		"bold": "Bold/CascadiaCode-Bold-vtt.ttf",
-		"regular": "Regular/CascadiaCode-Regular-vtt.ttf"
+		"bold_italic": "CascadiaCode-BoldItalic-vtt.ttf",
+		"italic": "CascadiaCode-Italic-vtt.ttf",
+		"bold": "CascadiaCode-Bold-vtt.ttf",
+		"regular": "CascadiaCode-Regular-vtt.ttf"
 	},
 	"CodeNewRoman": {
 		"name": "Code New Roman",
@@ -62,18 +62,18 @@
 		"bold_italic": "BoldItalic/Cousine-BoldItalic.ttf",
 		"regular": "Regular/Cousine-Regular.ttf"
 	},
-  "DroidSansMono": {
-    "name": "Droid Sans Mono for Powerline",
-    "regular": "Droid Sans Mono for Powerline.otf"
-  },
+	"DroidSansMono": {
+		"name": "Droid Sans Mono for Powerline",
+		"regular": "Droid Sans Mono for Powerline.otf"
+	},
 	"DejaVuSansMono": {
 		"name": "Deja Vu Sans Mono",
-      "regular": "Regular/DejaVuSansMono.ttf",
-      "italic": "Italic/DejaVuSansMono-Oblique.ttf",
-		  "bold": "Bold/DejaVuSansMono-Bold.ttf",
-      "bold-italic": "Bold-Italic/DejaVuSansMono-BoldOblique.ttf"
+		"regular": "Regular/DejaVuSansMono.ttf",
+		"italic": "Italic/DejaVuSansMono-Oblique.ttf",
+		"bold": "Bold/DejaVuSansMono-Bold.ttf",
+		"bold-italic": "Bold-Italic/DejaVuSansMono-BoldOblique.ttf"
 	},
-  "EnvyCodeR": {
+	"EnvyCodeR": {
 		"name": "Envy Code R",
 		"italic": "Envy Code R Italic.ttf",
 		"bold": "Envy Code R Bold.ttf",
@@ -88,7 +88,7 @@
 	},
 	"FiraCode": {
 		"name": "Fira Code",
-    "regular": "Regular/FiraCode-Regular.ttf",
+		"regular": "Regular/FiraCode-Regular.ttf",
 		"bold": "Bold/FiraCode-Bold.ttf"
 	},
 	"FiraMono": {
@@ -111,10 +111,10 @@
 	"Hasklig": {
 		"name": "Hasklig",
 		"bold": "Bold/Hasklig-Bold.otf",
-    "regular": "Regular/Hasklig-Regular.otf",
-    "bold-italic": "Bold-Italic/Hasklig-BoldIt.otf"
+		"regular": "Regular/Hasklig-Regular.otf",
+		"bold-italic": "Bold-Italic/Hasklig-BoldIt.otf"
 	},
-    "HeavyData": {
+	"HeavyData": {
 		"name": "Heavy Data",
 		"regular": "heavy_data.ttf"
 	},
@@ -122,7 +122,7 @@
 		"name": "Hermit",
 		"bold_italic": "Bold-Italic/Hermit-BoldItalic.otf",
 		"bold": "Bold/Hermit-Bold.otf",
-    "italic": "Italic/Hermit-RegularItalic.otf",
+		"italic": "Italic/Hermit-RegularItalic.otf",
 		"regular": "Regular/Hermit-Regular.otf"
 	},
 	"IBMPlexMono": {
@@ -144,30 +144,31 @@
 	},
 	"InconsolataLGC": {
 		"name": "Inconsolata LGC",
-		"bold_italic": "Bold-Italic/Inconsolata-LGC-BoldItalic.ttf",
-		"italic": "Italic/Inconsolata-LGC-Italic.ttf",
-    "bold": "Bold/Inconsolata-LGC-Bold.ttf",
-    "regular": "Regular/Inconsolata-LGC.ttf"
+		"bold_italic": "Inconsolata-LGC-BoldItalic.ttf",
+		"italic": "Inconsolata-LGC-Italic.ttf",
+		"bold": "Inconsolata-LGC-Bold.ttf",
+		"regular": "Inconsolata-LGC.ttf"
 	},
 	"IntelOneMono": {
 		"name": "Intel One Mono",
-		"italic": "Italic/intelone-mono-font-family-italic.ttf",
-		"bold": "Bold/intelone-mono-font-family-bold.ttf",
-    "bold-italic": "Bold-Italic/intelone-mono-font-family-bolditalic.ttf",
-		"regular": "Regular/intelone-mono-font-family-regular.ttf"
+		"italic": "IntelOneMono-Italic.ttf",
+		"bold": "IntelOneMono-Bold.ttf",
+		"bold-italic": "IntelOneMono-BoldItalic.ttf",
+		"regular": "IntelOneMono-Regular.ttf"
 	},
 	"Iosevka": {
 		"name": "Iosevka",
-		"italic": "Italic/iosevka-italic.ttf",
-		"bold": "Bold/iosevka-bold.ttf",
-		"regular": "Regular/iosevka-regular.ttf"
+		"italic": "Iosevka-Italic.ttf",
+		"bold": "Iosevka-Bold.ttf",
+		"bold-italic": "Iosevka-BoldItalic.ttf",
+		"regular": "Iosevka-Regular.ttf"
 	},
 	"IosevkaTerm": {
 		"name": "Iosevka Term",
-		"italic": "Italic/iosevka-term-italic.ttf",
-		"bold": "Bold/iosevka-term-bold.ttf",
-    "bold-italic": "Bold-Italic/iosevka-bolditalic.ttf",
-		"regular": "Regular/iosevka-term-regular.ttf"
+		"italic": "IosevkaTerm-Italic.ttf",
+		"bold": "IosevkaTerm-Bold.ttf",
+		"bold-italic": "IosevkaTerm-BoldItalic.ttf",
+		"regular": "IosevkaTerm-Regular.ttf"
 	},
 	"JetBrainsMono": {
 		"name": "Jet Brains Mono",
@@ -191,17 +192,17 @@
 	},
 	"Lilex": {
 		"name": "Lilex",
-		"bold": "Bold/Lilex-Bold.ttf",
-		"regular": "Regular/Lilex-Regular.ttf"
+		"bold": "Lilex-Bold.ttf",
+		"regular": "Lilex-Regular.ttf"
 	},
-    "Meslo": {
-		    "name": "Meslo for Powerline",
-		    "bold_italic": "L/Bold-Italic/Meslo LG L Bold Italic for Powerline.ttf",
-		    "italic": "L/Italic/Meslo LG L Italic for Powerline.ttf",
-		    "bold": "L/Bold/Meslo LG L Bold for Powerline.ttf",
-		    "regular": "L/Regular/Meslo LG L Regular for Powerline.ttf"
-	  },
-    "Monofur": { 
+	"Meslo": {
+		"name": "Meslo for Powerline",
+		"bold_italic": "L/Bold-Italic/Meslo LG L Bold Italic for Powerline.ttf",
+		"italic": "L/Italic/Meslo LG L Italic for Powerline.ttf",
+		"bold": "L/Bold/Meslo LG L Bold for Powerline.ttf",
+		"regular": "L/Regular/Meslo LG L Regular for Powerline.ttf"
+	},
+	"Monofur": {
 		"name": "Monofur for Powerline",
 		"italic": "Italic/Monofur Italic for Powerline.ttf",
 		"bold": "Bold/Monofur Bold for Powerline.ttf",
@@ -209,8 +210,8 @@
 	},
 	"MPlus": {
 		"name": "M Plus",
-		"bold": "M_Plus_1/MPLUS1-Bold.ttf",
-		"regular": "M_Plus_1/MPLUS1-Regular.ttf"
+		"bold": "M_Plus_1/Mplus1-Bold.ttf",
+		"regular": "M_Plus_1/Mplus1-Regular.ttf"
 	},
 	"Monoid": {
 		"name": "Monoid",
@@ -242,7 +243,7 @@
 		"bold": "Mono/Bold/overpass-mono-bold.otf",
 		"regular": "Mono/Regular/overpass-mono-regular.otf"
 	},
-  "ProggyClean": {
+	"ProggyClean": {
 		"name": "Proggy Clean",
 		"regular": "Regular/ProggyClean.ttf"
 	},
@@ -259,10 +260,10 @@
 	},
 	"SourceCodePro": {
 		"name": "Source Code Pro",
-		"bold": "Bold/SourceCodePro-Bold.ttf",
-    "regular": "Regular/SourceCodePro-Regular.ttf",
-    "italic": "Italic/SourceCodePro-It.ttf",
-    "bold-italic": "Bold-Italic/SourceCodePro-BoldIt.ttf"
+		"bold": "SourceCodePro-Bold.ttf",
+		"regular": "SourceCodePro-Regular.ttf",
+		"italic": "SourceCodePro-It.ttf",
+		"bold-italic": "SourceCodePro-BoldIt.ttf"
 	},
 	"SpaceMono": {
 		"name": "Space Mono",
@@ -271,13 +272,13 @@
 		"bold": "Bold/SpaceMono-Bold.ttf",
 		"regular": "Regular/SpaceMono-Regular.ttf"
 	},
-  "Terminus": {
-    "name": "Terminus",
-    "bold_italic": "Bold-Italic/TerminusTTF-Bold Italic-4.49.2.ttf",
-		"italic": "Italic/TerminusTTF-Italic-4.49.2.ttf",
-		"bold": "Bold/TerminusTTF-Bold-4.49.2.ttf",
-		"regular": "Regular/TerminusTTF-4.49.2.ttf"
-    },
+	"Terminus": {
+		"name": "Terminus",
+		"bold_italic": "TerminusTTF-Bold-Italic-4.49.3.ttf",
+		"italic": "TerminusTTF-Italic-4.49.3.ttf",
+		"bold": "TerminusTTF-Bold-4.49.3.ttf",
+		"regular": "TerminusTTF-4.49.3.ttf"
+	},
 	"Tinos": {
 		"name": "Tinos",
 		"bold_italic": "Bold-Italic/Tinos-BoldItalic.ttf",
@@ -285,7 +286,7 @@
 		"bold": "Bold/Tinos-Bold.ttf",
 		"regular": "Regular/Tinos-Regular.ttf"
 	},
-  "UbuntuMono": {
+	"UbuntuMono": {
 		"name": "Ubuntu Mono",
 		"bold_italic": "Bold-Italic/UbuntuMono-BI.ttf",
 		"italic": "Regular-Italic/UbuntuMono-RI.ttf",

@@ -30,10 +30,10 @@
 	},
 	"CascadiaCode": {
 		"name": "Cascadia Code",
-		"bold_italic": "Bold/CaskaydiaCoveNerdFontMono-BoldItalic.ttf",
-		"bold": "Bold/CaskaydiaCoveNerdFontMono-Bold.ttf",
-		"regular": "Regular/CaskaydiaCoveNerdFontMono-Regular.ttf",
-		"italic": "Regular/CaskaydiaCoveNerdFontMono-Italic.ttf"
+		"bold_italic": "CaskaydiaCoveNerdFontMono-BoldItalic.ttf",
+		"bold": "CaskaydiaCoveNerdFontMono-Bold.ttf",
+		"regular": "CaskaydiaCoveNerdFontMono-Regular.ttf",
+		"italic": "CaskaydiaCoveNerdFontMono-Italic.ttf"
 	},
 	"CodeNewRoman": {
 		"name": "Code New Roman",
@@ -60,9 +60,9 @@
 	"DejaVuSansMono": {
 		"name": "Deja Vu Sans Mono",
 		"bold": "Bold/DejaVuSansMNerdFontMono-Bold.ttf",
-    "regular": "Regular/DejaVuSansMNerdFontMono-Regular.ttf",
-    "italic": "Italic/DejaVuSansMNerdFontMono-Oblique.ttf",
-    "bold-italic": "Bold-Italic/DejaVuSansMNerdFontMono-BoldOblique.ttf"
+		"regular": "Regular/DejaVuSansMNerdFontMono-Regular.ttf",
+		"italic": "Italic/DejaVuSansMNerdFontMono-Oblique.ttf",
+		"bold-italic": "Bold-Italic/DejaVuSansMNerdFontMono-BoldOblique.ttf"
 	},
 	"DroidSansMono": {
 		"name": "Droid Sans Mono",
@@ -142,24 +142,24 @@
 	},
 	"InconsolataLGC": {
 		"name": "Inconsolata L G C",
-		"bold_italic": "Bold-Italic/InconsolataLGCNerdFontMono-BoldItalic.ttf",
-		"italic": "Italic/InconsolataLGCNerdFontMono-Italic.ttf",
-		"bold": "Bold/InconsolataLGCNerdFontMono-Bold.ttf",
-		"regular": "Regular/InconsolataLGCNerdFontMono-Regular.ttf"
+		"bold_italic": "InconsolataLGCNerdFontMono-BoldItalic.ttf",
+		"italic": "InconsolataLGCNerdFontMono-Italic.ttf",
+		"bold": "InconsolataLGCNerdFontMono-Bold.ttf",
+		"regular": "InconsolataLGCNerdFontMono-Regular.ttf"
 	},
 	"Iosevka": {
 		"name": "Iosevka",
-		"bold_italic": "Bold-Italic/IosevkaNerdFontMono-BoldItalic.ttf",
-		"italic": "Italic/IosevkaNerdFontMono-Italic.ttf",
-		"bold": "Bold/IosevkaNerdFontMono-Bold.ttf",
-		"regular": "Regular/IosevkaNerdFontMono-Regular.ttf"
+		"bold_italic": "IosevkaNerdFontMono-BoldItalic.ttf",
+		"italic": "IosevkaNerdFontMono-Italic.ttf",
+		"bold": "IosevkaNerdFontMono-Bold.ttf",
+		"regular": "IosevkaNerdFontMono-Regular.ttf"
 	},
 	"IosevkaTerm": {
 		"name": "Iosevka Term",
-		"bold_italic": "Bold-Italic/IosevkaTermNerdFontMono-BoldItalic.ttf",
-		"italic": "Italic/IosevkaTermNerdFontMono-Italic.ttf",
-		"bold": "Bold/IosevkaTermNerdFontMono-Bold.ttf",
-		"regular": "Regular/IosevkaTermNerdFontMono-Regular.ttf"
+		"bold_italic": "IosevkaTermNerdFontMono-BoldItalic.ttf",
+		"italic": "IosevkaTermNerdFontMono-Italic.ttf",
+		"bold": "IosevkaTermNerdFontMono-Bold.ttf",
+		"regular": "IosevkaTermNerdFontMono-Regular.ttf"
 	},
 	"JetBrainsMono": {
 		"name": "Jet Brains Mono",
@@ -183,8 +183,8 @@
 	},
 	"Lilex": {
 		"name": "Lilex",
-		"bold": "Bold/LilexNerdFontMono-Bold.ttf",
-		"regular": "Regular/LilexNerdFontMono-Regular.ttf"
+		"bold": "LilexNerdFontMono-Bold.ttf",
+		"regular": "LilexNerdFontMono-Regular.ttf"
 	},
 	"MPlus": {
 		"name": "M Plus",
@@ -252,10 +252,10 @@
 	},
 	"SourceCodePro": {
 		"name": "Source Code Pro",
-		"bold_italic": "Bold-Italic/SauceCodeProNerdFontMono-BoldItalic.ttf",
-		"italic": "Italic/SauceCodeProNerdFontMono-Italic.ttf",
-		"bold": "Bold/SauceCodeProNerdFontMono-Bold.ttf",
-		"regular": "Regular/SauceCodeProNerdFontMono-Regular.ttf"
+		"bold_italic": "SauceCodeProNerdFontMono-BoldItalic.ttf",
+		"italic": "SauceCodeProNerdFontMono-Italic.ttf",
+		"bold": "SauceCodeProNerdFontMono-Bold.ttf",
+		"regular": "SauceCodeProNerdFontMono-Regular.ttf"
 	},
 	"SpaceMono": {
 		"name": "Space Mono",
@@ -266,10 +266,10 @@
 	},
 	"Terminus": {
 		"name": "Terminus",
-		"bold_italic": "Bold-Italic/TerminessNerdFontMono-BoldItalic.ttf",
-		"italic": "Italic/TerminessNerdFontMono-Italic.ttf",
-		"bold": "Bold/TerminessNerdFontMono-Bold.ttf",
-		"regular": "Regular/TerminessNerdFontMono-Regular.ttf"
+		"bold_italic": "TerminessNerdFontMono-BoldItalic.ttf",
+		"italic": "TerminessNerdFontMono-Italic.ttf",
+		"bold": "TerminessNerdFontMono-Bold.ttf",
+		"regular": "TerminessNerdFontMono-Regular.ttf"
 	},
 	"UbuntuMono": {
 		"name": "Ubuntu Mono",
